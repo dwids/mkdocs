@@ -7,5 +7,6 @@ plugins:
   - tags:
       tags_file: tags.md
   
-  
+extra_css:
+  - stylesheets/extra.css  
   
