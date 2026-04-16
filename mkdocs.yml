@@ -6,8 +6,12 @@ plugins:
   - search
   - tags:
       tags_file: tags.md
-  - roamlinks
-  - callouts
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  
   
 theme:
   name: material
