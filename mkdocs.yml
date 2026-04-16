@@ -1,3 +1,8 @@
 site_name: DS Tech Blog - mkdocs test
 theme:
   name: material
+  
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md  # This tells the plugin where to build the index  
