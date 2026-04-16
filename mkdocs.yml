@@ -11,4 +11,3 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.blocks.admonition # This is the specific one for [!type]  
