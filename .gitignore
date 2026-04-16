@@ -1,0 +1,16 @@
+# MkDocs local build directory
+site/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+bin/
+lib/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Optional: Local MkDocs environment files
+.cache/

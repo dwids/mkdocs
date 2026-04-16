@@ -1,0 +1,3 @@
+site_name: DS Tech Blog - mkdocs test
+theme:
+  name: material
