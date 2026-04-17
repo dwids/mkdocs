@@ -8,7 +8,7 @@ plugins:
       tags_file: tags.md
 
 markdown_extensions:
-  - pymdownx.blocks.quotes  # Supports Obsidian > [!info] syntax
+#  - pymdownx.blocks.quotes  # Supports Obsidian > [!info] syntax
   - admonition
   - pymdownx.details
   - pymdownx.superfences
